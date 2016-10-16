@@ -1,0 +1,21 @@
+Eric Tsai
+
+Are average scores for hospital quality or procedural variability correlated with 
+patient survey responses?
+
+
+For this test of the correlation, we will test the overall rating achievement score
+from the survey results with both the average effective care score of the hospital
+and the hospital readmission rate.  The correlation was not run against the procedural
+variability because the survey results do not indicate the medical procedure that the
+survey result is in response to.
+
+By effective care score, the correlation of hospital quality with patient survey
+responses is -0.036624826883850964.  So there is no correlation between the two
+scores.
+
+By readmission score, the correlation of hospital quality with patient survey responses
+is -0.4109550450155804. This indicates that there is a moderate negative correlation 
+between the readmission score of a hospital and the patient survey responses.  The 
+negative correlation is due to a lower readmission rate is tied to a successful 
+medical procedure and by association, a more positive patient experience.

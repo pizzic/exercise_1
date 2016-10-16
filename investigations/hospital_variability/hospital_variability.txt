@@ -1,0 +1,60 @@
+Eric Tsai
+
+Which procedures have the greatest variability between hospitals?
+
+There are two ways of measuring the rating of hospitals.  One is the hospital's 
+effective and timely care score and the other is its readmission rate.  We will 
+examine the variability of procedures along both measures.
+
+The procedure with the greatest variability between hospitals by effective care
+score is ED1 with a variance of 8617.74.
+
+The procedure with the greatest variability between hospitals by readmission score
+is Pneumonia with a variance of 2.928.
+
+
+By effective care score:
+
+Measure Name		Average Score	Cumulative Score	Variance
+===========		=============	================	========
+ED1			271.6069397042093	954970.0	8617.740839212507
+ED2			98.51859267734554	344421.0	3864.6924460743544
+OP 18			142.76739325171692	478128.0	1656.5529409803205
+Median Time to Transfer to Another Facility for Acute Coronary Intervention
+       	       		60.74572127139364	24845.0	        869.0306968514053
+Thrombolytic Therapy	82.90045766590389   	72455.0         481.98665882944397
+Head CT results		66.71324296141815   	63978.0	        477.18888614639235
+Fibrinolytic Therapy Received Within 30 Minutes Of Hospital Arrival	
+	     	     	50.0	     		150.0	        352.6666666666667
+Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival
+	     	     	70.25	     		4777.0		325.74632352941165
+Median time to pain med	55.35687263556116	175592.0	314.0819735739413
+Door to diagnostic eval	28.081991651759093	94187.0		285.00371267017476
+
+
+
+By readmission score:
+Measure Name		Average Score	    Cumulative Score	Variance
+===========		=============	    ================	========
+Pneumonia (PN) 30-Day Mortality Rate	
+	       	        11.617117758784392  48931.29999999986	2.928147153274377
+Death rate for stroke patients	
+      	       	        14.85074248460702   41002.89999999998	2.725172393301905
+Heart failure (HF) 30-Day Readmission Rate
+      	      	   	22.04425006431698   85686.0000000001	2.543516590928094
+Heart failure (HF) 30-Day Mortality Rate
+			11.689894736842145  44421.60000000015   2.041708409972297
+Rate of unplanned readmission for CABG
+			14.963593155893543  15741.700000000006	1.7620300550101937
+Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients
+     		  	20.263497179693708  75440.99999999968  	1.6082753872469457
+Acute Myocardial Infarction (AMI) 30-Day Mortality Rate
+		 	14.15598563447723   35474.899999999936	1.562847252786449
+Pneumonia (PN) 30-Day Readmission Rate
+	  	        16.96664300922645   71718.0000000002	1.2489701122074577
+Rate of unplanned readmission for stroke patients
+     			12.7654058024238    34760.200000000004	1.2468164622065092
+Acute Myocardial Infarction (AMI) 30-Day Readmission Rate
+      		 	17.031103388357984  39205.60000000008	1.1752358807096308
+
+

@@ -1,0 +1,45 @@
+Eric Tsai
+
+What hospitals are models of high-quality care? That is, which hospitals have the most 
+consistently high scores for a variety of procedures.
+
+There are two ways of testing for the highest rated hospital.  One method is to find the
+hospital with the highest average score for effective and timely care across all 
+measures.  The hospital with the highest average effective care score is Falls 
+Community Hospital and Clinic with an average score of 235.5834.
+
+The other method is to find the hospital with the lowest average readmission score 
+across all measures.  The hospital with the lowest average readmission score is
+Fairway Medical Center.
+
+
+By effective care score:
+								Cum.
+Hospital Name				Average Score		Score	Variance
+=============				=============		=====	========
+FALLS COMMUNITY HOSPITAL AND CLINIC	235.58333333333334	2827.0	170417.0763888889
+BEAR VALLEY COMMUNITY HOSPITAL		175.33333333333334	526.0	16417.55555555556
+HOSP COMUNITARIO BUEN SAMARITANO	167.25			2676.0	55088.68749999999
+MEDINA REGIONAL HOSPITAL		136.0			408.0	5928.0
+NEWARK BETH ISRAEL MEDICAL CENTER	134.81578947368422	5123.0	38289.30817174514
+REDWOOD MEMORIAL HOSPITAL  		130.33333333333334	782.0	7996.222222222223
+HOSPITAL HERMANOS MELENDEZ INC		130.21052631578948	2474.0	19353.63988919667
+MERCY HOSPITAL CASSVILLE   		128.0			512.0	5510.0
+COMMUNITY MEMORIAL HOSPITAL, INC	127.66666666666667	1149.0	4312.444444444443
+BOONE MEMORIAL HOSPITAL	     		125.33333333333333	752.0	8040.88888888889
+
+
+By readmission score:
+								Cum.
+Hospital Name				Average Score		Score	Variance
+=============				=============		=====	========
+FAIRWAY MEDICAL CENTER				4.4		4.4	0.0
+OUACHITA COMMUNITY HOSPITAL			4.6		4.6	0.0
+PHYSICIANS' MEDICAL CENTER LLC			4.6		4.6	0.0
+LAFAYETTE GENERAL SURGICAL HOSPITAL		4.8		4.8	0.0
+DOCTORS HOSPITAL OF WEST COVINA, INC		4.8		4.8	0.0
+EDGEWOOD SURGICAL HOSPITAL	 		5.0		5.0	0.0
+HOAG ORTHOPEDIC INSTITUTE	 		7.0		14.0	19.360000000000003
+HOSPITAL FOR SPECIAL SURGERY	 		7.5		15.0	16.81
+MCBRIDE CLINIC ORTHOPEDIC HOSPITAL,  L L C	7.5		15.0	14.440000000000005
+NEBRASKA ORTHOPAEDIC HOSPITAL	       	 	7.85		15.7	17.222500000000004
